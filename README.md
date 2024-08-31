@@ -50,9 +50,3 @@ During peak traffic periods, the output will also include:
 
 1. **Number of Requests Delayed**: Requests delayed due to resource shortages.
 2. **Number of Requests Blocked**: Requests blocked when all worker threads are occupied.
-
-## Usage
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/priority-process-scheduling.git
